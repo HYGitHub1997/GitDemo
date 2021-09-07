@@ -19,3 +19,4 @@ Hello world!Hello git! master
 新分支修改
 #end 2
 master test
+hot-fix test
