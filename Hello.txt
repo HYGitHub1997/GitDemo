@@ -16,3 +16,5 @@ Hello world!Hello git!
 Hello world!Hello git!
 Hello world!Hello git!
 #end 1
+新分支修改
+#end 2
